@@ -1,0 +1,9 @@
+{
+  "extension_folder":"bcutydev",
+  "name": "bitcuty",
+  "git": "https://github.com/BLockChainsB/bitcuty.git",
+  "branch":"master-coin",
+  "dependencies": [
+    "https://github.com/LMDB/lmdb"
+  ]
+}
